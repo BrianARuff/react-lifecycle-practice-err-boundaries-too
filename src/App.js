@@ -11,7 +11,7 @@ class App extends React.Component {
     this.state = {
       count: 0,
       numString: "",
-      hasError: true,
+      hasError: false,
       error: "",
       info: ""
     }

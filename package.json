@@ -2,6 +2,7 @@
   "name": "life_cycle_practice",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://myname.github.io/life_cycle_practice ",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.10.1",
